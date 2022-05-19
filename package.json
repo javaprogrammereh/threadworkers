@@ -1,0 +1,12 @@
+{
+  "name": "https_cert_key",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --experimental-worker threads.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
